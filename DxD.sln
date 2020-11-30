@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyAntiCheat", "DxDLLRender\DxDLLRender.vcxproj", "{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Debug|ARM.Build.0 = Debug|ARM
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Debug|x64.ActiveCfg = Debug|x64
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Debug|x64.Build.0 = Debug|x64
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Debug|x86.ActiveCfg = Debug|x64
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Release|ARM.ActiveCfg = Release|ARM
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Release|ARM.Build.0 = Release|ARM
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Release|x64.ActiveCfg = Release|x64
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Release|x64.Build.0 = Release|x64
+		{8C3D3A70-1F95-4048-B4DD-BD9BBEDA1BE9}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25B2AA9-C087-4009-8A57-5ECE0E1F3BE4}
+	EndGlobalSection
+EndGlobal
